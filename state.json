@@ -1,0 +1,484 @@
+{
+  "titles": [
+    {
+      "id": "0",
+      "name": "Scream",
+      "year": 2022,
+      "MPAA": "R",
+      "rating": 7.7,
+      "votes": 15000,
+      "popularity": 17,
+      "popularityChange": 39,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/1.jpg",
+          "url": "",
+          "duration": 71,
+          "title": "Watch the Final Trailer",
+          "descr": "Twenty-five years after the original series of murders in Woodsboro, a new killer emerges, and Sidney Prescott must return to uncover the truth."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/2.jpg",
+          "url": "",
+          "duration": 71,
+          "title": "Trailer #1",
+          "descr": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past."
+        }
+      ],
+      "photos": [
+        {
+          "pId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/1.jpg",
+          "list" : ["ft", "io"]
+        },
+        {
+          "pId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/2.jpg",
+          "list" : ["io"]
+          
+        },
+        {
+          "pId": 2,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/0/3.jpg",
+          "list" : ["ft", "io", "ff"]
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        {
+          "name": "Matt Bettinelli-OlpinTyler",
+          "url": "#"
+        },
+        {
+          "name": "Gillett",
+          "url": "#"
+        }
+      ],
+      "writers": [
+        {
+          "name": "James Vanderbilt",
+          "info": "screenplay",
+          "url": "#"
+        },
+        {
+          "name": "Guy Busick",
+          "info": "screenplay",
+          "url": "#"
+        },
+        {
+          "name": "Kevin Williamson",
+          "info": "characters created by",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Neve Campbell",
+          "url": "#"
+        },
+        {
+          "name": "Courteney Cox",
+          "url": "#"
+        },
+        {
+          "name": "David Arquette",
+          "url": "#"
+        }
+      ],
+      "userReviewCount": 621,
+      "criticReviewCount": 200,
+      "metascore": 61,
+      "prime": true
+    },
+    {
+      "id": "1",
+      "name": "Uncharted",
+      "year": 2022,
+      "MPAA": "PG-13",
+      "rating": 5.6,
+      "votes": null,
+      "popularity": 16,
+      "popularityChange": 51,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/1/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/1/0.jpg",
+          "url": "https://imdb-video.media-imdb.com/vi3961242393/1434659607842-pgv4ql-1643294648523.mp4?Expires=1643879104&Signature=m1uAhU3b9URMJA03~2Wqlz7Kou2TZCLcRefvNpq5v3QdsbCqxYOpxgB64vVRInoDvDz3wE2XDwgm2saCgWTtDDSJCST29ypxo2QVreDTl~d8Pury3S3pgCw82Jw-NPltDvAUSXO~6Q4Ly05nigsVp8HcilrEtQRE2o3wfXZHokBVsz1KVCuNE~SJmSd8FG2EfBiujhVundvvaai1PIw6qUsSNR57sWXsmKZ6iLJSOESs6tB7vxQpKrnyIKbymyvOrGG0NoLaeZIqtbGkLBZkitNUXuLHcOeU4~urXq1iSf3wzl0VoRi20Ciy5jAVZ3itGXlBBNbp3GUNN6kU5K~FXg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan to recover a fortune amassed by Ferdinand Magellan and lost 500 years ago by the House of Moncada."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/1/1.jpg",
+          "url": "https://imdb-video.media-imdb.com/vi2251342617/1434659607842-pgv4ql-1640276473635.mp4?Expires=1643879160&Signature=tgdRFzfHJeQj9~flbB7po8uRpZXx--5cA4KfDo1U0r78wsXN4RhkfFsNM~VdKwCDF2XFCl7NZ69QxxYuhDE1zhI4ZjcPC2uKZSWQIyJMsFbC9RFF~Q8a44Hfwie1wmTE4PJWMtTPm-PBz37QvHg2dfo5cz5xTTmpDYdv8JlUv7bme3T9CN9aCxMtPANpQn8BZ1NtyKLTRaeSlx~aNcaVytlbpbi1ZvdASzyB-aoakFRSsVZufB6xUZ-G0rnF-BM8zHjDYWmDnhOQgmAk1D~hBym5k-GYvBgqvDFgtuJLGMNtcwB6CorIqfCKHNqKC1gq9lh~QHervUxIg2uyT4mxjg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "Street-smart thief Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan (Mark Wahlberg) to recover a fortune lost by Ferdinand Magellan 500 years ago. What starts as a heist job for the duo becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Moncada (Antonio Banderas), who believes he and his family are the rightful heirs. If Nate and Sully can decipher the clues and solve one of the world\"s oldest mysteries, they stand to find $5 billion in treasure and perhaps even Nate's long-lost brother...but only if they can learn to work together."
+        }
+      ],
+      "photos": [
+        {
+          "pId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/1/1.jpg",
+          "list" : ["ft", "ff"]
+          
+        },
+        {
+          "pId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/1/2.jpg"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        {
+          "name": "Ruben Fleischer",
+          "url": "#"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Art Marcum",
+          "url": "#"
+        },
+        {
+          "name": "Rafe Judkins",
+          "info": "story by",
+          "url": "#"
+        },
+        {
+          "name": "Matt Holloway",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Tom Holland",
+          "url": "#"
+        },
+        {
+          "name": "Sophia Ali",
+          "url": "#"
+        },
+        {
+          "name": "Mark Wahlberg",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "February 18, 2022"
+    },
+    {
+      "id": "2",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "year": 2022,
+      "rating": 8.2,
+      "votes": null,
+      "popularity": 20,
+      "popularityChange": 16,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/2/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/2/0.jpg",
+          "url": "",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/2/1.jpg",
+          "url": "",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "On this IMDbrief, let's go there and back again to break down everything we know about the Prime Video series, \"The Lord of the Rings: The Rings of Power\" starring Morfydd Clark, Robert Aramayo, Ismael Cruz Córdova, Charlie Vickers, and dozens more in the prequel set thousands of years before J.R.R. Tolkein's novels and Peter Jackson's films."
+        }
+      ],
+      "photos": [],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "creators": [
+        {
+          "name": "Patrick McKay",
+          "url": "#"
+        },
+        {
+          "name": "John D. Payne",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Morfydd Clark",
+          "url": "#"
+        },
+        {
+          "name": "Peter Mullan",
+          "url": "#"
+        },
+        {
+          "name": "Benjamin Walker",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "September 2, 2022"
+    },
+    {
+      "id": "3",
+      "name": "Elvis",
+      "year": 2022,
+      "rating": 6.1,
+      "votes": null,
+      "popularity": 15,
+      "popularityChange": 2542,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/3/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/3/0.jpg",
+          "url": "",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/3/1.jpg",
+          "url": "",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "Empty"
+        }
+      ],
+      "photos": [
+        {
+          "pId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/3/1.jpg",
+          "list" : ["io", "ff"]
+        }
+      ],
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "Directors": [
+        {
+          "name": "Baz Luhrmann",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Tom Hanks",
+          "url": "#"
+        },
+        {
+          "name": "Austin Butler",
+          "url": "#"
+        },
+        {
+          "name": "Olivia DeJonge",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "June 24, 2022"
+    },
+    {
+      "id": "4",
+      "name": "Moon Knight",
+      "year": 2022,
+      "rating": null,
+      "votes": null,
+      "popularity": 30,
+      "popularityChange": 161,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/4/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/4/0.jpg",
+          "url": "",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "A former U.S. Marine, struggling with dissociative identity disorder, is granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/4/1.jpg",
+          "url": "",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "Empty"
+        }
+      ],
+      "photos": [],
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "Creators": [
+        {
+          "name": "Doug Moench",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Oscar Isaac",
+          "url": "#"
+        },
+        {
+          "name": "Ethan Hawke",
+          "url": "#"
+        },
+        {
+          "name": "OGaspard Ulliel",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "March 30, 2022",
+      "prime": true
+    },
+    {
+      "id": "5",
+      "name": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "rating": null,
+      "votes": null,
+      "popularity": 2,
+      "popularityChange": 41,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/5/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/5/0.jpg",
+          "url": "",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "Dr. Stephen Strange casts a forbidden spell that opens the door to the multiverse, including an alternate version of himself, whose threat to humanity is too great for the combined forces of Strange, Wong, and Wanda Maximoff."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/5/1.jpg",
+          "url": "",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "Empty"
+        }
+      ],
+      "photos": [],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        {
+          "name": "Sam Raimi",
+          "url": "#"
+        }
+      ],
+      "writers": [
+        {
+          "name": "Jade Halley Bartlett",
+          "url": "#"
+        },
+        {
+          "name": "Steve Ditko",
+          "url": "#"
+        },
+        {
+          "name": "Stan Lee",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Elizabeth Olsen",
+          "url": "#"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "url": "#"
+        },
+        {
+          "name": "Xochitl Gomez",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "March 30, 2022"
+    },
+    {
+      "id": "6",
+      "name": "Bridgerton",
+      "year": 2020,
+      "rating": 7.3,
+      "votes": 99000,
+      "popularity": 74,
+      "popularityChange": 83,
+      "posterImg": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/6/poster.jpg",
+      "videos": [
+        {
+          "vId": 0,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/6/0.jpg",
+          "url": "",
+          "duration": 91,
+          "title": "Final Trailer",
+          "descr": "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family."
+        },
+        {
+          "vId": 1,
+          "img": "https://raw.githubusercontent.com/Aliphas/imdb-images/main/titles/6/1.jpg",
+          "url": "",
+          "duration": 224,
+          "title": "Official Trailer 2",
+          "descr": "Empty"
+        }
+      ],
+      "photos": [],
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "Creators": [
+        {
+          "name": "Chris Van Dusen",
+          "url": "#"
+        }
+      ],
+      "stars": [
+        {
+          "name": "Phoebe Dynevor",
+          "url": "#"
+        },
+        {
+          "name": "Regé-Jean Page",
+          "url": "#"
+        },
+        {
+          "name": "Nicola Coughlan",
+          "url": "#"
+        }
+      ],
+      "comingSoon": "March 25, 2022"
+    }
+  ],
+  "lists": [
+   
+  ]
+}
